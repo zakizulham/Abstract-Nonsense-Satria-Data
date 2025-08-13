@@ -44,6 +44,3 @@
 | **fun3_1**    | Persepsi diri: seberapa menyenangkan | Skala 1–10 |
 | **amb3_1**    | Persepsi diri: seberapa ambisius | Skala 1–10 |
 
-### Catatan:
-- Kolom dengan skala **1–10** mengukur tingkat minat/pentingnya suatu atribut.
-- Untuk kolom seperti `field_cd`, `race`, dan `goal`, nilai numerik mewakili kategori tertentu (lihat mapping).
